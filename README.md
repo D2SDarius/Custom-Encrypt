@@ -39,4 +39,4 @@ u = ! ;
 l = @ ;
 t = & ;
 y = ( ;
-"The file with the Translates of case 7 in in the zip file"
+"The file with the Translates of case 7 is in the zip file"
